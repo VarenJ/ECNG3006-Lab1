@@ -1,7 +1,6 @@
-
-
-
 //ID# 816029852
+
+
 // PIC18F4620 Configuration Bit Settings
 // CONFIG1H
 #pragma config OSC = HS         // Oscillator Selection bits (HS oscillator)
